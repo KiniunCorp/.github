@@ -7,6 +7,7 @@
   </ul>
 </div>
 
+
 ## What we do
 
 KiniunCorp focuses on improving how software is designed, built, and executed in the age of AI.
@@ -21,7 +22,6 @@ We build tools and systems that add:
 Our goal is simple:  
 **turn AI from a powerful assistant into a dependable engineering system.**
 
----
 
 ## Projects
 
@@ -39,7 +39,6 @@ Spec-To-Ship turns raw AI chat sessions into a real software process — with st
 
 👉 https://github.com/KiniunCorp/spec-to-ship
 
----
 
 ## Philosophy
 
@@ -52,7 +51,6 @@ We believe:
 
 Our work reflects these principles.
 
----
 
 ## Open source
 
@@ -64,7 +62,6 @@ Our projects are built as real open-source software.
 
 If our work is useful to you or your team, consider supporting the projects directly.
 
----
 
 ## Working with us
 
@@ -76,7 +73,6 @@ For teams exploring structured AI workflows or adopting tools like Spec-To-Ship,
 
 These are separate from open-source sponsorship and scoped independently.
 
----
 
 ## Direction
 
@@ -88,7 +84,26 @@ KiniunCorp is focused on a long-term vision:
 
 More projects will be introduced over time.
 
----
+
+## Maintained by
+
+KiniunCorp is led and maintained by [Gus Chiriboga](https://github.com/guschiriboga).
+
+Gus is a systems engineer focused on cloud, DevOps, and platform design, with a strong interest in building structured, reliable workflows and solutions for AI-driven development.
+
+### His work centers on:
+
+- turning complex systems into clear, executable processes  
+- bridging product thinking and engineering execution  
+- designing tools that scale with real-world usage  
+
+Spec-To-Ship and related projects reflect this approach.
+
+### You can follow his work here:
+
+- GitHub: https://github.com/guschiriboga  
+- (optional later) Website: https://gusch.me
+
 
 ## Contact
 
@@ -96,6 +111,5 @@ For project-related topics, use the relevant repository.
 
 For other inquiries, you can reach out via GitHub.
 
----
 
 Building systems, not just tools.
