@@ -25,6 +25,8 @@ Our goal is simple:
 
 ## Projects
 
+<img src="https://github.com/KiniunCorp/spec-to-ship/blob/main/assets/logo.png?raw=true" alt="Spec-To-Ship (s2s)" width="160" />
+
 ### Spec-To-Ship (`s2s`)
 
 A structured engineering workflow for AI-driven development.
