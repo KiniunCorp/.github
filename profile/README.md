@@ -87,7 +87,7 @@ More projects will be introduced over time.
 
 ## Maintained by
 
-KiniunCorp is led and maintained by [Gus Chiriboga](https://github.com/guschiriboga).
+KiniunCorp is an independent engineering initiative led and maintained by [Gus Chiriboga](https://github.com/guschiriboga).
 
 Gus is a systems engineer focused on cloud, DevOps, and platform design, with a strong interest in building structured, reliable workflows and solutions for AI-driven development.
 
