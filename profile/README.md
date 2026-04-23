@@ -102,7 +102,7 @@ Spec-To-Ship and related projects reflect this approach.
 ### You can follow his work here:
 
 - GitHub: https://github.com/guschiriboga  
-- (optional later) Website: https://gusch.me
+- Website: https://gusch.me
 
 
 ## Contact
